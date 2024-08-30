@@ -1,6 +1,6 @@
 # Taller 2 - Simple Web Server
 
-Este proyecto consiste en la creación de un servidor web REST sencillo  que puede manejar peticiones HTTP GET y POST, devolviendo respuestas de archivos locales en el servidor y contenido JSON, y permitiendo la gestión de usuarios con funcionalidades como listar usuarios y buscarlos. En esta nueva version del proyecto se le permite al desarrollador crear servicio Lambda. Justamente en los servicios estaticos y de usuarios.
+Este proyecto consiste en la creación de un servidor web REST sencillo  que puede manejar peticiones HTTP GET, devolviendo respuestas de archivos locales en el servidor y contenido JSON, y permitiendo la gestión de usuarios con funcionalidades como listar usuarios y buscarlos. En esta nueva version del proyecto se le permite al desarrollador crear servicio Lambda. Justamente en los servicios estaticos y de usuarios.
 
 ## Arquitectura
 
