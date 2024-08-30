@@ -47,7 +47,7 @@ mvn test
 ```
 ### Break down into end to end tests
 
-Las pruebas de este sistema comprueban que las peticiones HTTP GET  funcionan correctamente, listado de usuarios en formato JSON. Tambien se agregaron pruebas de errores y excepciones en caso de peticiones no implementadas o no casos donde no encuentra nada.
+Las pruebas de este sistema comprueban que las peticiones HTTP GET  funcionan correctamente, listado de usuarios en formato JSON. Tambien se agregaron pruebas de errores y excepciones en caso de peticiones no implementadas o en casos donde no encuentra nada.
 
 Ejemplo: El siguiente codigo es de la prueba para la peticion de buscar un usuario.
 ```
