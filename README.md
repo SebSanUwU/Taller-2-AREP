@@ -24,11 +24,11 @@ Una serie de pasos para poner en marcha el entorno de desarrollo:
 
 1. **Clonar el repositorio** desde GitHub:
 ```
-git clone https://github.com/SebSanUwU/taller1-simple-webserver.git
+git clone https://github.com/SebSanUwU/Taller-2-AREP.git
 ```
 2. **Navegar al directorio del proyecto**:
 ```
-cd taller1-simple-webserver
+cd Taller-2-AREP
 ```
 3. **Construir el proyecto** usando Maven:
 ```
